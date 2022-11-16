@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laplok", "Laplok\Laplok.csproj", "{1DB0D1D6-74C5-4670-8151-D0FB2D2CBF28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DB0D1D6-74C5-4670-8151-D0FB2D2CBF28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB0D1D6-74C5-4670-8151-D0FB2D2CBF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB0D1D6-74C5-4670-8151-D0FB2D2CBF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB0D1D6-74C5-4670-8151-D0FB2D2CBF28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FA4B496-FC1F-4367-ABED-6CDABE9E541E}
+	EndGlobalSection
+EndGlobal
